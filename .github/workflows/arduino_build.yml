@@ -12,7 +12,7 @@ jobs:
 
       - uses: arduino/compile-sketches@v1
         with:
-          fqbn: "esp32:esp32"
+          fqbn: "esp32:esp32:tinypico"
           libraries: |
             - name: Servo
           platforms: |
