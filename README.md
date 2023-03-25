@@ -1,0 +1,1 @@
+[![Build Arduino Sketch](https://github.com/atomic14/arduino-badge-test/actions/workflows/arduino_build.yml/badge.svg)](https://github.com/atomic14/arduino-badge-test/actions/workflows/arduino_build.yml)
